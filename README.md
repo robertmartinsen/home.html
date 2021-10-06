@@ -1,2 +1,8 @@
-# home.html
+# index.html
  assignment
+ oppgave
+ {styles}
+ {js}
+ {images}
+ >>>>>
+ 
